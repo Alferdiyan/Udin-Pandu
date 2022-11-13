@@ -10,10 +10,10 @@ export default function AboutUs() {
         </div>
         <div className="w-3/5 flex-wrap ">
           <h2 className="headtext__cormorant">About Us</h2>
-          <p>Kami adalah Jasa Foto profesional di Magelang, sampai saat ini melayani ratusan client.</p>
+          <p>Kami adalah Jasa Foto profesional di Magelang, sampai saat ini melayani beberapa client.</p>
           <p>
-            Alhamdulillah sudah banyak client foto wedding jogja yang terpuaskan. Layanan unggulan kami adalah fotografer pernikahan, jasa foto Wisuda, Jasa foto keluarga, jasa foto Traveling, jasa foto produk terdekat, jasa foto produk
-            pakaian, jasa foto produk kosmetik, jasa foto produk makanan dan jasa foto produk onlineshop.
+            Layanan unggulan kami adalah fotografer pernikahan, jasa foto Wisuda, Jasa foto keluarga, jasa foto Traveling, jasa foto produk terdekat, jasa foto produk pakaian, jasa foto produk kosmetik, jasa foto produk makanan dan jasa
+            foto produk onlineshop.
           </p>
           <p>Kami memiliki team profesional dibidangnya untuk menghasilkan karya-karya terbaik sesuai kebutuhan Anda.</p>
         </div>
